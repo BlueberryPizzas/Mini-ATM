@@ -1,6 +1,6 @@
 import math
 
-amount = int(input("What is the number of dollars you want to split? "))
+amount = int(input("What is the Number of Dollars(USD) you Want to Split? "))
 
 # * can't have more than half of the total be 20s
 # * val = amount / 2
